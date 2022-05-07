@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for exosh",
+  "main": "index.js",
+  "repository": "https://github.com/mohit838/FullStack-exosh-eCommerce-Shop.git",
+  "author": "Mohammad Mohitul Islam",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.5.0"
+  }
+}
